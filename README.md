@@ -23,6 +23,6 @@ Virtual viallge. B2B Community with Bazaar Marketplace of products and services.
 - Other tools
 - FOSS Software Collection
 
-### Our promise: Freedom of lifetime data access to your data via open-source software.
+### Our promise: Freedom of lifetime access to your data.
 
 
